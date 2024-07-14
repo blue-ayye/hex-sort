@@ -6,6 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes: []
   m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 80b1c25e1ae01b446883ba29670748bd, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 56456e1eace5340da9ff5bdd9bde8c5e,
       type: 3}
   m_UseUCBPForAssetBundles: 0
